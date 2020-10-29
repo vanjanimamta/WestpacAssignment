@@ -1,6 +1,6 @@
 # WestpacAssignment
 
-##Please read the below instructions to execute the test cases:##
+## Please read the below instructions to execute the test cases: ##
 
 - Install Cypress on your machine  https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements 
 - Downloaded the WestpacAssignment Project from github https://github.com/vanjanimamta/WestpacAssignment 
