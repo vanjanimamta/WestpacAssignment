@@ -2,7 +2,7 @@
 
 ##Please read the below instructions to execute the test cases:##
 
-*_1. Install Cypress on your machine  https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements _*
+**_1. Install Cypress on your machine  https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements _**
 *_2. Downloaded the WestpacAssignment Project from github https://github.com/vanjanimamta/WestpacAssignment _*
 *_3. Open the WestpacAssignment folder in VS Code _*
 *_4. Inside VS Code Cilck on Terminal > New Terminal_*
